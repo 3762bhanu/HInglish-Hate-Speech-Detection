@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "568946041543",
+    "project_id": "curb-your-fire-base-98edf",
+    "storage_bucket": "curb-your-fire-base-98edf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568946041543:android:2e28f0b661d7bb402954e2",
+        "android_client_info": {
+          "package_name": "com.example.curbyourfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568946041543-s6pdtngqrur65c9evsnqfsnicgi6qtba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3yEPiJv9u5v8aaQp83QJV8pAM0mCCltA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "568946041543-s6pdtngqrur65c9evsnqfsnicgi6qtba.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568946041543:android:a89b5d292a27978a2954e2",
+        "android_client_info": {
+          "package_name": "mark.andrew.hinglishhatespeech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568946041543-0jl36k3igqco1spqiad105r7ooa40bc8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mark.andrew.hinglishhatespeech",
+            "certificate_hash": "1afc2025cc44132d4d491091757c9fd308fe8970"
+          }
+        },
+        {
+          "client_id": "568946041543-s6pdtngqrur65c9evsnqfsnicgi6qtba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3yEPiJv9u5v8aaQp83QJV8pAM0mCCltA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "568946041543-s6pdtngqrur65c9evsnqfsnicgi6qtba.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

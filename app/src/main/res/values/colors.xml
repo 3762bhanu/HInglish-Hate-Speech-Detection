@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#ffc400</color>
+    <color name="purple_500">#a67f00</color>
+    <color name="purple_700">#a67f00</color>
+    <color name="teal_200">#ffc400</color>
+    <color name="teal_700">#a67f00</color>
+    <color name="black">#FF000000</color>
+    <color name="light_black">#1c1c1c</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="fakeWhite">#f7f7f5</color>
+    <color name="red">#ff3633</color>
+    <color name="dark_yellow_color">#ff9130</color>
+    <color name="yellow_color">#ffa83d</color>
+    <color name="light_yellow_color">#ffb357</color>
+    <color name="grey">#6b6b6b</color>
+    <color name="transparent">#00000000</color>
+    <color name="semitransparent">#70000000</color>
+    <color name="light_blue_600">#FF039BE5</color>
+    <color name="light_blue_900">#FF01579B</color>
+    <color name="light_blue_A200">#FF40C4FF</color>
+    <color name="light_blue_A400">#FF00B0FF</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="fade">#12000000</color>
+    <color name="green">#1E9600</color>
+    <color name="view_pager_status_bar_color">#373737</color>
+    <!--    <color name="semitransparent">#88676767</color>-->
+    <color name="ted_image_picker_primary">#ffa83d</color>
+    <color name="ted_image_picker_primary_pressed">#ff9130</color>
+</resources>
+
